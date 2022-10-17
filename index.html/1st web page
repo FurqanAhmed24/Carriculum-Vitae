@@ -1,0 +1,42 @@
+!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Furqan's web page</title>
+</head>
+
+<body>
+  <img src="https://lh3.googleusercontent.com/a-/AOh14GjDfw1dA8Im8qTp5XSheBUId-rlRTe1ewDlH1nNQg=s288-p-rw-no" height="150px" ; width="150px">
+  <em>
+    <h1>Hello n welcome to my <strong>first</strong> Webpage</h1>
+  </em>
+  <p>Iam currently developing a web page</p>
+  <p>To contact: 8309845950 </p>
+  <hr>
+  <h2>Education</h2>
+  <ul>
+    <li><strong>Bachelors</strong>: kakatiya institute of technology and science, warangal</li>
+    <li><strong>Intermediate</strong>: SR junior college for boys</li>
+    <li><strong>Secondary School</strong>: ST. Gabriels High School</li>
+  </ul>
+  <hr>
+  <table>
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>experience</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>16th-current</td>
+        <td>web developer at cognizant</td>
+      </tr>
+    </tbody>
+  <h2>Projects</h2>
+  <ol>
+    <li><a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhackster.imgix.net%2Fuploads%2Fattachments%2F1204529%2F_UeSpRt4lzI.blob%3Fauto%3Dcompress%252Cformat%26w%3D900%26h%3D675%26fit%3Dmin&imgrefurl=https%3A%2F%2Fcreate.arduino.cc%2Fprojecthub%2Fembeddedlab786%2Fline-follower-robot-d22d06&tbnid=R11ve3UhGS1FKM&vet=12ahUKEwjC2_Tuj_L0AhVl7TgGHd-1AwAQMygAegUIARDLAQ..i&docid=EcwivRb4XvF6eM&w=768&h=576&q=line%20follower%20robot%20using%20arduino&ved=2ahUKEwjC2_Tuj_L0AhVl7TgGHd-1AwAQMygAegUIARDLAQ">Line follower robo</a></li>
+    <li>Robo soccer bot</li>
+    <li><a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.dualpumps.co.uk%2Fproductimages%2F17.0433&imgrefurl=https%3A%2F%2Fwww.dualpumps.co.uk%2Fproducts%2F17.0433__Steam_Nozzle&tbnid=li1cibuBd-QHwM&vet=12ahUKEwic09_IkPL0AhXz7DgGHVK2BZYQMygKegUIARDtAQ..i&docid=lIpJiIFbzteTjM&w=776&h=600&itg=1&q=steam%20nozzle%20images&ved=2ahUKEwic09_IkPL0AhXz7DgGHVK2BZYQMygKegUIARDtAQ">Steam nozzle design using catia</a></li>
+
+</body>
